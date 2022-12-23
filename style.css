@@ -3,9 +3,12 @@ form{
     border-radius: 10px;
 }
 h2{
-    margin: 50px auto;
+    margin: 30px auto;
     border-radius: 10px;
 }
 body{
     background-color: lightgrey;
+}
+li{
+    margin: 20px auto;
 }
